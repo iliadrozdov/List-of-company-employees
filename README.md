@@ -16,4 +16,4 @@ This application allows you to manage employee records. You can add, update, del
 
 ## Code Structure
 
-- `main.py`: Main file to run the application and manage the GUI.
+- `main.py`: Main file to run the application and manage the GUI.# List-of-company-employees
